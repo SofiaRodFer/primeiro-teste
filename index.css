@@ -1,0 +1,15 @@
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    #linkir {
+        transition: .2s;
+        text-decoration: none;
+        color: #2B2D42;
+    }
+    #linkir:hover {
+        color: #CC7E85;
+    }
+    #linkir:visited {
+        text-decoration: none;
+    }
