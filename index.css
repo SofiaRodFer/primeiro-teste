@@ -13,3 +13,51 @@
     #linkir:visited {
         text-decoration: none;
     }
+
+    h4 {
+        border: solid 4px blueviolet;
+        background-color: lightgrey;
+        border-radius: 5px;
+    }
+
+    #h1title{
+        font-family: 'Courier New', Courier, monospace;
+    }
+    
+    #linkvoltar {
+        transition: .2s;
+        text-decoration: none;
+        color: #2B2D42;
+    }
+    #linkvoltar:hover {
+        color: #CC7E85;
+    }
+    #linkvoltar:visited {
+        text-decoration: none;
+    }
+    #estesite {
+        transition: .2s;
+        text-decoration: none;
+        color: crimson;
+    }
+    #estesite:hover {
+        color: black;
+    }
+    #estesite:visited {
+        text-decoration: none;
+    }
+    .big {
+        height: 10px;
+        width: 100px;
+    }
+    .quadrado {
+        height: 100px;
+        width: 100px;
+        background-color: pink;
+    }
+    .left {
+        padding-left: 200px;
+        float: left;
+    }
+    
+
