@@ -14,6 +14,14 @@
         text-decoration: none;
     }
 
+    .centro {
+        text-align: center;
+        border-radius: 100px;
+        background-color: lightpink;
+        margin-left: 700px;
+        margin-right: 700px;
+    }
+
     h4 {
         border: solid 4px blueviolet;
         background-color: lightgrey;
@@ -33,6 +41,17 @@
         color: #CC7E85;
     }
     #linkvoltar:visited {
+        text-decoration: none;
+    }
+    #linkvoltarq {
+        transition: .2s;
+        text-decoration: none;
+        color: orange;
+    }
+    #linkvoltarq:hover {
+        color: darkred;
+    }
+    #linkvoltarq:visited {
         text-decoration: none;
     }
     #estesite {
@@ -57,7 +76,16 @@
     }
     .left {
         padding-left: 200px;
-        float: left;
+        float: right;
     }
-    
+    .quadro {
+        padding: 20px;
+        border: solid 2px black;
+        text-align: center;
+        height: 270px;
+        width: 480px;
+        margin-top: 8px;
+        margin-left: 2px;
+        margin-right: 2px;
+    }
 
