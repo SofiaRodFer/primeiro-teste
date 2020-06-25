@@ -54,6 +54,17 @@
     #linkvoltarq:visited {
         text-decoration: none;
     }
+    #linkvoltarp {
+        transition: .2s;
+        text-decoration: none;
+        color: indigo;
+    }
+    #linkvoltarp:hover {
+        color: black;
+    }
+    #linkvoltarp:visited {
+        text-decoration: none;
+    }
     #estesite {
         transition: .2s;
         text-decoration: none;
@@ -89,3 +100,38 @@
         margin-right: 2px;
     }
 
+    .paleta {
+        display: inline;
+        padding:0px;
+    }
+
+    .pimg {
+        height: 200px;
+        width: 50px;
+        border: solid 2px black; 
+        text-shadow: 1px 1px 0px grey;
+    }
+    
+    .centrop {
+        display: inline-block;
+        width: 1000px;
+        margin: auto 0;
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    .centrotxt {
+        align-self: inherit;
+        text-align: center;
+        margin-left: 700px;
+        margin-right: 700px;
+    }
+
+    #color1 {
+        background-color: #FFAC81;
+        padding: 12.5px 25px 12.5px 25px;
+    }
+
+    /* display: inline-block; */
+    /* text-align: center; */
+    /* margin-left: 735PX; */
+    /* margin-right: 2px; */
