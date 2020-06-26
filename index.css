@@ -109,13 +109,13 @@
         height: 200px;
         width: 50px;
         border: solid 2px black; 
-        text-shadow: 1px 1px 0px grey;
+        display: inline-block;
     }
     
     .centrop {
-        display: inline-block;
         width: 1000px;
-        margin: auto 0;
+        margin: auto;
+        text-align: center;
         font-family: 'Courier New', Courier, monospace;
     }
 
@@ -127,11 +127,21 @@
     }
 
     #color1 {
-        background-color: #FFAC81;
+        background: linear-gradient(90deg, #FFAC81, #FF928B, #FEC3A6, #EFE9AE, #CDEAC0);
         padding: 12.5px 25px 12.5px 25px;
     }
 
-    /* display: inline-block; */
-    /* text-align: center; */
-    /* margin-left: 735PX; */
-    /* margin-right: 2px; */
+    #color2 {
+        background: linear-gradient(90deg, #DDFFD9, #ECC8AE, #D7907B, #6C4B5E, #B3679B);
+        padding: 12.5px 25px 12.5px 25px;
+    }
+
+    #color3 {
+        background: linear-gradient(90deg, #87BCDE, #805E73, #4E4D5C, #2D4654, #243B4A);
+        padding: 12.5px 25px 12.5px 25px;
+    }
+
+    #color4 {
+        background: linear-gradient(90deg, #132A13, #31572C, #4F772D, #90A955, #ECF39E);
+        padding: 12.5px 25px 12.5px 25px;
+    }
