@@ -145,3 +145,31 @@
         background: linear-gradient(90deg, #132A13, #31572C, #4F772D, #90A955, #ECF39E);
         padding: 12.5px 25px 12.5px 25px;
     }
+
+    #color5 {
+        background: linear-gradient(90deg, #FFBE0B, #FB5607, #FF006E, #8338EC, #3A86FF);
+        padding: 12.5px 25px 12.5px 25px;
+    }
+
+    #color6 {
+        background: linear-gradient(90deg, #EDADC7, #D199B6, #C493B0, #A68BA5, #5C5D67);
+        padding: 12.5px 25px 12.5px 25px;
+    }
+
+    #color7 {
+        background: linear-gradient(90deg, #C41E3D, #7D1128, #FF2C55, #3C0919, #E2294F);
+        padding: 12.5px 25px 12.5px 25px;
+    }
+
+    #color8 {
+        background: linear-gradient(90deg, #FFADAD, #FFD6A5, #FDFFB6, #CAFFBF, #9BF6FF, #A0C4FF, #BDB2FF, #FFC6FF, #FFFFFC);
+        padding: 12.5px 25px 12.5px 25px;
+    }
+    
+    #color9 {
+        background: linear-gradient(90deg, #D8E2DC, #FFFFFF, #FFCAD4, #F4ACB7, #9D8189);
+        padding: 12.5px 25px 12.5px 25px;
+    }
+
+
+
