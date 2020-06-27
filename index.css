@@ -80,6 +80,9 @@
         height: 10px;
         width: 100px;
     }
+    .meio {
+        text-align: center;
+    }
     .quadrado {
         height: 100px;
         width: 100px;
